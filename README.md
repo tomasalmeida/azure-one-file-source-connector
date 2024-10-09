@@ -74,4 +74,3 @@ Thanks to
 * https://github.com/rjmfernandes/kafkaAzureBackupRestore - with the basics to run the cluster and set the Azure connector
 * https://github.com/vdesabou/kafka-docker-playground/tree/master/connect/connect-azure-blob-storage-source - always a good inspiration
 * https://docs.confluent.io/kafka-connectors/azure-blob-storage-source/current/backup-and-restore/overview.html
-* 
