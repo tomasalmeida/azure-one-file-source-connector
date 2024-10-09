@@ -10,7 +10,7 @@ Create a new Blob Storage in Azure with one file, use it as a source of data for
 
 ## The resources
 
-Follow https://learn.microsoft.com/en-us/azure/storage/blobs/blob-containers-portal to create the container. I need to download the storage explorer to navigate and update files. As per our config, the files should be inside a folder called topics. Add the v1 file to that folder
+Follow https://learn.microsoft.com/en-us/azure/storage/blobs/blob-containers-portal to create the container. I needed to download the storage explorer to navigate and update files. As per our config, the files should be inside a folder called topics. Add the v1 file to that folder.
 
 ## Check the logs
 
